@@ -1,0 +1,16 @@
+{
+  "name": "embark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark custom syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "repository": "https://github.com/zmisson424/UbuntuTheme/atom/syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
