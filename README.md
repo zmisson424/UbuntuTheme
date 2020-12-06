@@ -5,13 +5,13 @@ and css pages for the GnomeShell as well as several actively used applications.
 
 ### Color Palette
 
-![Color Palette](https://github.com/zmisson424/UbuntuTheme/theme.png)
+![Color Palette](https://github.com/zmisson424/UbuntuTheme/blob/main/theme.png)
 
 ### Gnome Shell
 
 ### Spotify
 
-![Spotify Theme](https://github.com/zmisson424/UbuntuTheme/spotify/spotify-theme.png)
+![Spotify Theme](https://github.com/zmisson424/UbuntuTheme/blob/main/spotify/spotify-theme.png)
 
 This is an updated look and feel for Spotify using Spicetify and Dribbblish
 

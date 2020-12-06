@@ -1,6 +1,6 @@
 # Spotify
 
-![Spotify Theme](https://github.com/zmisson424/UbuntuTheme/spotify/spotify-theme.png)
+![Spotify Theme](https://github.com/zmisson424/UbuntuTheme/blob/main/spotify/spotify-theme.png)
 
 ### Spiceify
 
