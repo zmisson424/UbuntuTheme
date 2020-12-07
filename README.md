@@ -19,4 +19,6 @@ This is an updated look and feel for Spotify using Spicetify and Dribbblish
 
 ### Atom
 
+![Atom Theme](https://github.com/zmisson424/UbuntuTheme/blob/main/atom/atom.png)
+
 ### Terminal
