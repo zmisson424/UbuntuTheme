@@ -25,6 +25,8 @@ This is an updated look and feel for Spotify using Spicetify and Dribbblish
 
 ### Background Image
 
+![Background Image](https://github.com/zmisson424/UbuntuTheme/blob/main/dayandnight.png)
+
 Day and Night
 [Image Source](https://www.reddit.com/r/multiwall/comments/h01sj6/merged_marias_day_and_night_versions_of_desert/)
 [OG Image Source](https://www.reddit.com/r/TheLastAirbender/comments/gim8ks/proud_of_what_i_put_together_5760x1080/)
